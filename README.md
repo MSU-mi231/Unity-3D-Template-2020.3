@@ -1,6 +1,8 @@
-# Unity Project Template
+# Unity 3D Project Template 2020.3
 
 A project template that includes the correct .gitignore and .gitattributes files as well as this README.md MarkDown file. You won't see these files because they are invisible, but they help GIT work well with Unity projects.
+
+The other major thing that this template accomplishes is that it **removes Plastic SCM from the Unity Project**, which is extremely helpful for allowing Git to work well.
 
 *I hope this template works for you. If it doesn't, please let me know on Piazza. – Jeremy*
 
