@@ -1,7 +1,7 @@
 ################################################
-# Project
-# Your Name
-# Date
+# Project   - 
+# Your Name - 
+# Date      - 
 ################################################
 
 ___What are the controls to your game? How do we play?___
@@ -37,3 +37,6 @@ ___What trouble did you have with this project?___
 
 
 ___Is there anything else we should know?___
+
+
+
