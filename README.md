@@ -1,10 +1,12 @@
 # Unity 3D Project Template 2020.3
 
-A project template that includes the correct .gitignore and .gitattributes files as well as this README.md MarkDown file. You won't see the .git___ files because they are invisible, but they help GIT work well with Unity projects.
+**This project template for all Unity 2020.3 projects in MI 231 - Interactive Media and Game Development includes:**
+* A Unity project template that includes the correct .gitignore and .gitattributes files to work with GitLab.MSU.edu. You won't see the .git___ files because they are invisible, but they help GIT work well with Unity projects.
+* **This README.md MarkDown file.** You will need to edit the **Required ReadMe Info** section below for ***EVERY*** project in this class.
+* A UnityWindowLayout.wlt file in the project folder (the same folder as this ReadMe.md file) that you can load to lay out the Unity window the way that Jeremy recommends.
+* Modifications to the base Unity project that **remove Plastic SCM**, which is extremely helpful for allowing Git to work well.
 
-The other major thing that this template accomplishes is that it **removes Plastic SCM from the Unity Project**, which is extremely helpful for allowing Git to work well.
-
-*I hope this template works for you. If it doesn't, please let me know on Piazza. – Jeremy*
+*I hope this template works for you. If it doesn't, please let us know on Piazza. – Jeremy*
 
 ---
 
