@@ -13,7 +13,7 @@ The other major thing that this template accomplishes is that it **removes Plast
 * **Your Name** - 
 * **Date**      - 
 
----
+<br><br>
 
 1. **What are the controls to your game? How do we play?**
 
@@ -56,7 +56,7 @@ The other major thing that this template accomplishes is that it **removes Plast
 
 ---
 
-## Connecting GitHub Desktop to GitLab.MSU.edu Projects
+# Connecting GitHub Desktop to GitLab.MSU.edu Projects
 In MSU Media+Information classes, I recommend using **GitHub Desktop** ([https://desktop.github.com/](https://desktop.github.com/)) to manage your GIT repos. However, doing so does require some (annoying) initial setup. *Thank you to Chris Cardimen for posting these setup steps to the MI 497 Discord channel.*
 
 1. Download GitHub Desktop: [**https://desktop.github.com/**](https://desktop.github.com/)
