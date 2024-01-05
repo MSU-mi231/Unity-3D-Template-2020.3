@@ -6,7 +6,7 @@
 * A UnityWindowLayout.wlt file in the project folder (the same folder as this ReadMe.md file) that you can load to lay out the Unity window the way that Jeremy recommends.
 * Modifications to the base Unity project that **remove Plastic SCM**, which is extremely helpful for allowing Git to work well.
 
-*I hope this template works for you. If it doesn't, please let us know on Piazza. – Jeremy*
+> I hope this template works for you. If it doesn't, please let us know on Piazza. – Jeremy
 
 ---
 
