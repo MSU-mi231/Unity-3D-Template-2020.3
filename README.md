@@ -14,41 +14,49 @@ The other major thing that this template accomplishes is that it **removes Plast
 * **Date**      - 
 
 <br>
+
 1. **What are the controls to your game? How do we play?**
 
 
 
 <br>
+
 2. **What creative additions did you make? How can we find them?**
 
 
 
 <br>
-3. **Any assets used that you didn't create yourself?**<br> (art, music, etc. Just tell us where you got it, link it here)
+
+3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
 
 
 <br>
-4. **Did you receive help from anyone outside this class?**<br> (list their names and what they helped with)
+
+4. **Did you receive help from anyone outside this class?** <br> (list their names and what they helped with)
 
 
 
 <br>
-5. **Did you get help from any AI Code Assistants?**<br> (Tell us which .cs file to look in for the citation and describe what you learned)
+
+5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
 
 
 
 <br>
-6. **Did you get help from any online websites, videos, or tutorials?**<br> (link them here)
+
+6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 
 
 
 <br>
+
 7. **What trouble did you have with this project?**
 
 
 
 <br>
+
 8. **Is there anything else we should know?**
 
 
