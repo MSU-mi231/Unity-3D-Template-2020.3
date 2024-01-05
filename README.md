@@ -1,10 +1,60 @@
 # Unity 3D Project Template 2020.3
 
-A project template that includes the correct .gitignore and .gitattributes files as well as this README.md MarkDown file. You won't see these files because they are invisible, but they help GIT work well with Unity projects.
+A project template that includes the correct .gitignore and .gitattributes files as well as this README.md MarkDown file. You won't see the .git___ files because they are invisible, but they help GIT work well with Unity projects.
 
 The other major thing that this template accomplishes is that it **removes Plastic SCM from the Unity Project**, which is extremely helpful for allowing Git to work well.
 
 *I hope this template works for you. If it doesn't, please let me know on Piazza. – Jeremy*
+
+# __________________________
+
+# Required ReadMe Info for ALL MI 231 Projects
+* **Project**   - 
+* **Your Name** - 
+* **Date**      - 
+
+-
+
+1. **What are the controls to your game? How do we play?**
+
+
+
+
+2. **What creative additions did you make? How can we find them?**
+
+
+
+
+3. **Any assets used that you didn't create yourself?**<br> (art, music, etc. Just tell us where you got it, link it here)
+
+
+
+
+4. **Did you receive help from anyone outside this class?**<br> (list their names and what they helped with)
+
+
+
+5. **Did you get help from any AI Code Assistants?**<br> (Tell us which .cs file to look in for the citation and describe what you learned)
+
+
+
+6. **Did you get help from any online websites, videos, or tutorials?**<br> (link them here)
+
+
+
+
+7. **What trouble did you have with this project?**
+
+
+
+8. **Is there anything else we should know?**
+
+
+
+
+<br><br><br><br><br>
+
+# __________________________
 
 ## Connecting GitHub Desktop to GitLab.MSU.edu Projects
 In MSU Media+Information classes, I recommend using **GitHub Desktop** ([https://desktop.github.com/](https://desktop.github.com/)) to manage your GIT repos. However, doing so does require some (annoying) initial setup. *Thank you to Chris Cardimen for posting these setup steps to the MI 497 Discord channel.*
