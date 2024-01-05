@@ -6,13 +6,14 @@ The other major thing that this template accomplishes is that it **removes Plast
 
 *I hope this template works for you. If it doesn't, please let me know on Piazza. – Jeremy*
 
+---
 
 # Required ReadMe Info for ALL MI 231 Projects
 * **Project**   - 
 * **Your Name** - 
 * **Date**      - 
 
-___
+---
 
 1. **What are the controls to your game? How do we play?**
 
@@ -53,6 +54,7 @@ ___
 
 <br><br><br><br><br>
 
+---
 
 ## Connecting GitHub Desktop to GitLab.MSU.edu Projects
 In MSU Media+Information classes, I recommend using **GitHub Desktop** ([https://desktop.github.com/](https://desktop.github.com/)) to manage your GIT repos. However, doing so does require some (annoying) initial setup. *Thank you to Chris Cardimen for posting these setup steps to the MI 497 Discord channel.*
@@ -82,8 +84,9 @@ In MSU Media+Information classes, I recommend using **GitHub Desktop** ([https:/
 
 
 
-# __________________________
+<br><br><br><br><br>
 
+---
 
 
 # Default GitLab README Content is Below
